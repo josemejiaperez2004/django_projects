@@ -7,7 +7,7 @@
 >>>* AppBlog (Login Basico)
 >>>* NewsPaper (Página web de articulos)
 >>>* app_motos (API de Motos)
->>>* Tienda (API de Tienda de motos)
+>>>* Tienda (API de Tienda)
 
 
 # 1. ¿En que consiste el repositorio?
@@ -56,6 +56,20 @@ se aplica conocimientos de Bases de Datos en las API's.
 ![image](https://user-images.githubusercontent.com/101678570/207761513-9e0af4e8-2914-4607-807b-0233689f483a.png)
 #### Cambio de contraseña:
 ![image](https://user-images.githubusercontent.com/101678570/207761542-51f782c1-615a-4660-80bd-76f231964423.png)
+
+## app_motos (API de Motos):
+### Requerimientos del environment, para ejecutar este proyecto:
+#### Descargar las siguientes librerías:
+![image](https://user-images.githubusercontent.com/101678570/207763899-56314e41-2087-46fb-92ec-268f8a06950b.png)
+
+
+### Resultado final:
+#### Vista general de la API, trayendo todos los registros de la BD (tener en cuenta como se pone en la url):
+![image](https://user-images.githubusercontent.com/101678570/207764077-c606a1bc-b9ee-43b2-a615-072703b8ae7c.png)
+
+#### Parte Inferior de la vista principal de la API, en está parte se postea los registros:
+![image](https://user-images.githubusercontent.com/101678570/207764292-dda43885-97ed-4847-9eac-2664fbb7b1bb.png)
+
 
 
 
