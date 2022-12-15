@@ -27,6 +27,10 @@ se aplica conocimientos de Bases de Datos en las API's.
 # 3. Proyectos:
 
 ## AppBlog (Login Basico):
+
+### Resumen del proyecto:
+Login Basico en Django, con su register e Inicio de sesión, con estilos en css3 y bootstrap5.
+
 ### Requerimientos del environment, para ejecutar este proyecto:
 #### Descargar las siguientes librerías:
 ![image](https://user-images.githubusercontent.com/101678570/207759521-1400a38c-a054-49f3-85da-49239545e701.png)
@@ -39,6 +43,10 @@ se aplica conocimientos de Bases de Datos en las API's.
 
 <br><br>
 ## NewsPaper (Página de Articulos):
+
+### Resumen del proyecto:
+Página web de gestión de articulos en Django, con su respectivo Inicio de sesión, registro de usuarios, olvido de contraseña, con autenticación de usaurios, restricciones de autor, estilos en css3, bootstrap5 y un poco de JS.
+
 ### Requerimientos del environment, para ejecutar este proyecto: 
 #### Descargar las siguientes librerías:
 ![image](https://user-images.githubusercontent.com/101678570/207759521-1400a38c-a054-49f3-85da-49239545e701.png)
@@ -62,6 +70,10 @@ se aplica conocimientos de Bases de Datos en las API's.
 
 <br><br>
 ## app_motos (API de Motos):
+
+### Resumen del proyecto:
+API simuladora de tienda de Motos, Backend en Django, uso de registros, uso de metodos como Post, Get, Delete, Update, Filtración de valor de acuerdo a su id y actualizacion de registros.
+
 ### Requerimientos del environment, para ejecutar este proyecto:
 #### Descargar las siguientes librerías:
 ![image](https://user-images.githubusercontent.com/101678570/207763899-56314e41-2087-46fb-92ec-268f8a06950b.png)
@@ -83,6 +95,10 @@ se aplica conocimientos de Bases de Datos en las API's.
 
 <br><br>
 ## Tienda (API Tienda SENA):
+
+### Resumen del proyecto:
+API simuladora de super mercado, Backend en Django, uso de registros, uso de metodos como Post, Get, Delete, Update, Filtración de valor de acuerdo a su id y clasificación, y actualizacion de registros.
+
 ### Requerimientos del environment, para ejecutar este proyecto:
 #### Descargar las siguientes librerías:
 ![image](https://user-images.githubusercontent.com/101678570/207764806-b39729d8-7f2b-4e54-ade1-4bcd2a4a3260.png)
