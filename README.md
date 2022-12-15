@@ -59,6 +59,8 @@ se aplica conocimientos de Bases de Datos en las API's.
 #### Cambio de contraseña:
 ![image](https://user-images.githubusercontent.com/101678570/207761542-51f782c1-615a-4660-80bd-76f231964423.png)
 
+
+<br><br>
 ## app_motos (API de Motos):
 ### Requerimientos del environment, para ejecutar este proyecto:
 #### Descargar las siguientes librerías:
@@ -78,6 +80,8 @@ se aplica conocimientos de Bases de Datos en las API's.
 #### Modificación del registro, de acuerdo a su id:
 ![image](https://user-images.githubusercontent.com/101678570/207764619-aa6edfef-1796-401e-ad7f-fb3880dc7869.png)
 
+
+<br><br>
 ## Tienda (API Tienda SENA):
 ### Requerimientos del environment, para ejecutar este proyecto:
 #### Descargar las siguientes librerías:
@@ -99,6 +103,11 @@ se aplica conocimientos de Bases de Datos en las API's.
 
 #### Filtro de acuerdo a la clasificacion de cada registro (tener en cuenta como se pone el la url):
 ![image](https://user-images.githubusercontent.com/101678570/207766472-1d168464-4437-4d05-9602-ecafbe27e6da.png)
+
+
+
+
+## By Jose Mejia - From CBA-SENA
 
 
 
