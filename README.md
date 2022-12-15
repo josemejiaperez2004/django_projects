@@ -18,3 +18,7 @@ se aplica conocimientos de Bases de Datos en las API's.
 ## AppBlog (Login Basico):
 ### Resultado final:
 
+![image](https://user-images.githubusercontent.com/101678570/207752278-a46d4823-8987-44f5-9711-a3975fdc846f.png)
+![image](https://user-images.githubusercontent.com/101678570/207752351-d8bb5efa-9c23-4ab7-9d91-201e4c36ec86.png)
+
+
