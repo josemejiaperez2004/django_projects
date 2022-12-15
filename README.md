@@ -106,7 +106,7 @@ se aplica conocimientos de Bases de Datos en las API's.
 
 
 
-## CopyRigth
+## Derechos:
 ### By: Jose Mejia - From: CBA-SENA
 
 
