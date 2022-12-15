@@ -32,7 +32,9 @@ se aplica conocimientos de Bases de Datos en las API's.
 ![image](https://user-images.githubusercontent.com/101678570/207759521-1400a38c-a054-49f3-85da-49239545e701.png)
 
 ### Resultado final:
+#### Inicio de Sesión:
 ![image](https://user-images.githubusercontent.com/101678570/207752278-a46d4823-8987-44f5-9711-a3975fdc846f.png)
+#### Registro:
 ![image](https://user-images.githubusercontent.com/101678570/207752351-d8bb5efa-9c23-4ab7-9d91-201e4c36ec86.png)
 
 <br><br>
@@ -69,6 +71,40 @@ se aplica conocimientos de Bases de Datos en las API's.
 
 #### Parte Inferior de la vista principal de la API, en está parte se postea los registros:
 ![image](https://user-images.githubusercontent.com/101678570/207764292-dda43885-97ed-4847-9eac-2664fbb7b1bb.png)
+
+#### Filtro de acuerdo al id de cada registro (tener en cuenta como se pone el la url):
+![image](https://user-images.githubusercontent.com/101678570/207764534-dc5e274c-1b44-4f00-b011-7a2d9445e503.png)
+
+#### Modificación del registro, de acuerdo a su id:
+![image](https://user-images.githubusercontent.com/101678570/207764619-aa6edfef-1796-401e-ad7f-fb3880dc7869.png)
+
+## Tienda (API Tienda SENA):
+### Requerimientos del environment, para ejecutar este proyecto:
+#### Descargar las siguientes librerías:
+![image](https://user-images.githubusercontent.com/101678570/207764806-b39729d8-7f2b-4e54-ade1-4bcd2a4a3260.png)
+
+### Resultado final:
+
+#### Vista general de la API, trayendo todos los registros de la BD (tener en cuenta como se pone en la url):
+![image](https://user-images.githubusercontent.com/101678570/207766018-31c2ad43-83a1-4a93-b4e2-9c794187cd36.png)
+
+#### Parte Inferior de la vista principal de la API, en está parte se postea los registros:
+![image](https://user-images.githubusercontent.com/101678570/207766155-b4dba13a-aa7b-45ad-b043-bc6b23a7d94c.png)
+
+#### Filtro de acuerdo al id de cada registro (tener en cuenta como se pone el la url):
+![image](https://user-images.githubusercontent.com/101678570/207766235-9a6a13e9-dcb1-45f6-b8fd-1aea5d8561a4.png)
+
+#### Modificación del registro, de acuerdo a su id:
+![image](https://user-images.githubusercontent.com/101678570/207766330-90060c91-be7b-4bed-9e8b-7838c9fda9df.png)
+
+#### Filtro de acuerdo a la clasificacion de cada registro (tener en cuenta como se pone el la url):
+![image](https://user-images.githubusercontent.com/101678570/207766472-1d168464-4437-4d05-9602-ecafbe27e6da.png)
+
+
+
+
+
+
 
 
 
